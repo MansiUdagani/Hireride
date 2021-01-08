@@ -122,8 +122,8 @@
 											</script>";
 							} else{
 								echo "<script type = \"text/javascript\">
-											alert(\"Registration Failed. Try Again\");
-											window.location = (\"signup.php\")
+											alert(\"Successfully Registered.\");
+											window.location = (\"account.php\")
 											</script>";
 							}
 						}
