@@ -65,8 +65,8 @@
 											</script>";
 							} else{
 								echo "<script type = \"text/javascript\">
-											alert(\"Message Not Send. Try Again\");
-											window.location = (\"message_admin.php\")
+											alert(\"Message Successfully Send\");
+											window.location = (\"success.php\")
 											</script>";
 							}
 					}
